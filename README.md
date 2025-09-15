@@ -41,8 +41,8 @@ An AI-powered platform that transforms raw business ideas into comprehensive ven
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd billion-dollar-idea-platform
+   git clone git@github.com:lalomorales22/kiro-hackathon-billion-dollar-idea.git
+   cd kiro-hackathon-billion-dollar-idea
    ```
 
 2. **Configure environment**
